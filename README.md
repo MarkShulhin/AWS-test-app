@@ -1,2 +1,2 @@
 # AWS-test-app
-Test applications that will be deployed to the AWS.
+Test application that will be deployed to the AWS.
