@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`With Snapshot Testing should render App that shows ssr hello world 1`] = `
+<h1
+  className="sc-bdVaJa bqcVBL"
+>
+  Server side rendered "Hello World!"
+</h1>
+`;

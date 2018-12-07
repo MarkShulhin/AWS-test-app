@@ -1,0 +1,21 @@
+node_modules# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+.next
+/.next
+src/preview/index.html
+jsconfig.json
+
+.sonarlint
+.idea/
+.idea/workspace.xml
+.vscode/
+app/build/
+www/bundle.js
+www/assets/
+coverage
